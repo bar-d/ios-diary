@@ -303,7 +303,7 @@
 ---
 
 
-## [1️⃣ Step1_Wiki](https://github.com/bar-d/ios-diary/wiki/Step1)
-## [2️⃣ Step2_Wiki](https://github.com/bar-d/ios-diary/wiki/Step2)
-## [3️⃣ Step3_Wiki](https://github.com/bar-d/ios-diary/wiki/Step3)
+## [1️⃣ Step1_Wiki](https://github.com/bar-d/ios-diary/wiki/1%EF%B8%8F⃣-Step1_Wiki)
+## [2️⃣ Step2_Wiki](https://github.com/bar-d/ios-diary/wiki/2%EF%B8%8F⃣-Step2_Wiki)
+## [3️⃣ Step3_Wiki](https://github.com/bar-d/ios-diary/wiki/3%EF%B8%8F⃣-Step3_Wiki)
 ## [TroubleShooting](https://github.com/bar-d/ios-diary/wiki/TroubleShooting)
